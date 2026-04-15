@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou o Lucas Eduardo!
-Sou estudante de Engenharia de Software e Desenvolvedor Full-Stack em formação.
+Sou estudante de Engenharia de Software e Desenvolvedor Full-Stack JR em formação.
 
 🧠 **Foco atual:** Desenvolvimento web e de aplicações escaláveis.
 
