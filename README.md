@@ -16,5 +16,6 @@ Sou Engenheiro de Software e Desenvolvedor fullstack, atualmente com foco em bac
 
 💌 **Entre em contato comigo para saber mais:** ⤵️
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.eduardo5855@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-eduardo-de-melo-da-silva-a70651294/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.eduardo5855@gmail.com)
+
